@@ -1,6 +1,8 @@
 # Clique-Detection-Program
 (using MIPS Assembly Language on MARS 4.5)
+
 The program reads a 5×5 adjacency matrix from a text file, validates the input, and uses a brute-force algorithm to determine the maximum clique in the graph.
+
 A clique is a set of vertices where every pair of vertices is connected.
 
 
